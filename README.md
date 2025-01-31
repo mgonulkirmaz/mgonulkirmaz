@@ -2,7 +2,7 @@
 
 ### Hi there! 👋 I'm Mustafa <br>I'm a **Mechatronics Engineer** with a strong background in **embedded systems and microcontrollers**. I enjoy working at the intersection of hardware and software, designing efficient and reliable systems for automation, control and people. <br><br>Currently, I'm expanding my skills in **software engineering, data analytics, and embedded systems**, and I’ll be working on projects related to **embedded systems, software development, and data science**.<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgonulkirmaz)
 
